@@ -25,4 +25,12 @@
         android:layout_toRightOf="@+id/textView1"
         android:text="Button" />
 
+    <Button
+        android:id="@+id/button_go_to_acc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/go_to_accelerometer" />
+
 </RelativeLayout>
