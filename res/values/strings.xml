@@ -7,5 +7,6 @@
     <string name="title_activity_maptest">Maptest</string>
     <string name="title_activity_accelero_meter">AcceleroMeter</string>
     <string name="go_to_accelerometer">Go To Accelerometer</string>
+    <string name="goMaps">Go To Maps</string>
 
 </resources>
