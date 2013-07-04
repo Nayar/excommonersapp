@@ -32,6 +32,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.excommonapp.MainActivity" />
         </activity>
+        <activity
+            android:name="com.example.excommonapp.AcceleroMeter"
+            android:label="@string/title_activity_accelero_meter" >
+        </activity>
     </application>
 
 </manifest>
